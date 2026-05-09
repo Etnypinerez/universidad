@@ -1,0 +1,42 @@
+[
+    {
+        "id_unico": "1",
+        "nombre": "pepe",
+        "modelo": "flash",
+        "api_key_protegida": "QUl6YVN5QkRHSDhrY0F4RS1VMF9lN3l5NHY0ZkZiREI2blhDSGxj",
+        "instruccion_sistema": "profesor de ingles",
+        "temperatura": 1.0,
+        "historial_mensajes": [
+            {
+                "rol": "user",
+                "contenido": "dime los continentes "
+            },
+            {
+                "rol": "model",
+                "contenido": "¡Claro que sí! Los continentes de la Tierra son siete. Aquí te los menciono:\n\n1.  **Asia**\n2.  **África**\n3.  **América del Norte**\n4.  **América del Sur**\n5.  **Antártida**\n6.  **Europa**\n7.  **Oceanía** (también conocido a veces solo como Australia, refiriéndose al continente)\n\nEspero que esta información te sea útil."
+            },
+            {
+                "rol": "user",
+                "contenido": "que es lo que haces"
+            },
+            {
+                "rol": "model",
+                "contenido": "Soy un **modelo de lenguaje grande**, entrenado por Google.\n\nMi propósito principal es **procesar y generar texto** de manera útil y coherente. En resumen, lo que hago es:\n\n*   **Responder preguntas:** Sobre una amplia variedad de temas, basándome en el vasto conocimiento con el que fui entrenado.\n*   **Explicar conceptos:** Desde lo más simple hasta lo más complejo, desglosando la información para que sea fácil de entender.\n*   **Generar textos creativos:** Como historias, poemas, guiones, correos electrónicos, código, chistes, etc.\n*   **Resumir información:** De documentos largos o artículos, extrayendo los puntos clave.\n*   **Traducir idiomas:** Entre diferentes lenguas.\n*   **Ayudar con tareas de escritura:** Como redacción, corrección, o dar ideas para un proyecto.\n*   **Ofrecer ideas y sugerencias:** Para proyectos, problemas o simplemente para inspirar.\n*   **Mantener conversaciones:** Sobre casi cualquier tema, intentando ser útil y amigable.\n\nEn resumen, soy una herramienta diseñada para ayudarte a obtener información, generar contenido y facilitar diversas tareas relacionadas con el lenguaje.\n\nAsí que, ¡no dudes en preguntarme lo que necesites!"
+            },
+            {
+                "rol": "user",
+                "contenido": "dime todos los pronombres en ingles"
+            },
+            {
+                "rol": "model",
+                "contenido": "¡Claro que sí! Los pronombres en inglés son una parte fundamental de la gramática. Aquí te los detallo por categorías, que es la forma más clara de entenderlos:\n\n---\n\n### 1. Pronombres Personales (Personal Pronouns)\n\nReemplazan al sustantivo que realiza (sujeto) o recibe (objeto) la acción del verbo.\n\n*   **Pronombres de Sujeto (Subject Pronouns):** Realizan la acción.\n    *   **I** (yo) - *I like pizza.*\n    *   **You** (tú/ustedes/vosotros) - *You are kind.*\n    *   **He** (él) - *He works hard.*\n    *   **She** (ella) - *She sings beautifully.*\n    *   **It** (ello/esto/esa cosa - para animales u objetos) - *It is raining.*\n    *   **We** (nosotros/nosotras) - *We live here.*\n    *   **They** (ellos/ellas) - *They went home.*\n\n*   **Pronombres de Objeto (Object Pronouns):** Reciben la acción.\n    *   **Me** (me/a mí) - *He saw me.*\n    *   **You** (te/a ti/a ustedes/os) - *I told you.*\n    *   **Him** (le/a él) - *She gave him a gift.*\n    *   **Her** (le/a ella) - *We called her.*\n    *   **It** (lo/la/le/a ello) - *I bought it.*\n    *   **Us** (nos/a nosotros) - *They helped us.*\n    *   **Them** (les/a ellos/a ellas) - *I will join them.*\n\n---\n\n### 2. Pronombres Posesivos (Possessive Pronouns)\n\nIndican propiedad o posesión y reemplazan a un sustantivo posesivo (ej: \"John's book\" -> \"his\").\n\n*   **Mine** (mío/mía/míos/mías) - *That book is mine.*\n*   **Yours** (tuyo/a/os/as, suyo/a/os/as de usted/ustedes) - *Is this umbrella yours?*\n*   **His** (suyo/a/os/as de él) - *The red car is his.*\n*   **Hers** (suyo/a/os/as de ella) - *The blue bag is hers.*\n*   **Its** (suyo/a/os/as de ello/cosa) - (Rara vez se usa como pronombre posesivo, más común como adjetivo \"its\")\n*   **Ours** (nuestro/a/os/as) - *The house with the garden is ours.*\n*   **Theirs** (suyo/a/os/as de ellos/as) - *The decision was theirs.*\n\n**(Nota Importante):** No confundir con los **Adjetivos Posesivos (Possessive Adjectives / Possessive Determiners)**, que van *antes* de un sustantivo y *no* son pronombres.\n*   **My** book (mi libro)\n*   **Your** car (tu coche)\n*   **His** jacket (su chaqueta de él)\n*   **Her** cat (su gato de ella)\n*   **Its** tail (su cola - de un animal)\n*   **Our"
+            }
+        ],
+        "historial_estados": [
+            {
+                "instruccion": "profesor de matematica",
+                "temperatura": 1.0
+            }
+        ]
+    }
+]
