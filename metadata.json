@@ -1,0 +1,6 @@
+{
+  "name": "Chatbot",
+  "description": "Motor de configuración y persistencia para múltiples instancias de chatbots personalizados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
