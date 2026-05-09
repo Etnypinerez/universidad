@@ -1,0 +1,62 @@
+[
+    {
+        "fecha_hora": "2026-05-09 05:48:15",
+        "codigo_error": "VAL_INT_ERR",
+        "descripcion": "Entrada no numérica en menú."
+    },
+    {
+        "fecha_hora": "2026-05-09 05:48:26",
+        "codigo_error": "VAL_INT_ERR",
+        "descripcion": "Entrada no numérica en menú."
+    },
+    {
+        "fecha_hora": "2026-05-09 06:08:04",
+        "codigo_error": "API_RESP_ERR",
+        "descripcion": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+    },
+    {
+        "fecha_hora": "2026-05-09 06:12:38",
+        "codigo_error": "API_RESP_ERR",
+        "descripcion": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+    },
+    {
+        "fecha_hora": "2026-05-09 06:13:14",
+        "codigo_error": "VAL_INT_ERR",
+        "descripcion": "Entrada no numérica en menú."
+    },
+    {
+        "fecha_hora": "2026-05-09 06:17:54",
+        "codigo_error": "API_RESP_ERR",
+        "descripcion": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+    },
+    {
+        "fecha_hora": "2026-05-09 06:32:34",
+        "codigo_error": "VAL_FLOAT_ERR",
+        "descripcion": "Entrada decimal inválida."
+    },
+    {
+        "fecha_hora": "2026-05-09 10:06:49",
+        "codigo_error": "VAL_INT_ERR",
+        "descripcion": "Entrada no numérica en menú."
+    },
+    {
+        "fecha_hora": "2026-05-09 10:06:51",
+        "codigo_error": "VAL_INT_ERR",
+        "descripcion": "Entrada no numérica en menú."
+    },
+    {
+        "fecha_hora": "2026-05-09 10:06:51",
+        "codigo_error": "VAL_INT_ERR",
+        "descripcion": "Entrada no numérica en menú."
+    },
+    {
+        "fecha_hora": "2026-05-09 10:06:53",
+        "codigo_error": "VAL_INT_ERR",
+        "descripcion": "Entrada no numérica en menú."
+    },
+    {
+        "fecha_hora": "2026-05-09 10:06:56",
+        "codigo_error": "VAL_INT_ERR",
+        "descripcion": "Entrada no numérica en menú."
+    }
+]
